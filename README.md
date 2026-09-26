@@ -122,14 +122,14 @@ python build.py
 
 ```
 Steam-Client-Injected-Bulk-Seller/
-├── .gitignore             # Git 忽略文件规则
-├── README.md              # 项目技术说明文档
-├── requirements.txt       # Python 极简依赖库声明
-├── setup_steam.py         # Steam 快捷方式自动配置脚本 (PowerShell 原生修改)
-├── injector.py            # 基于 CDP 协议的轻量注入守护程序
-├── injected_script.js     # 注入至 Steam 客户端的完整原生前端交互脚本
-├── build.py               # 一键打包单文件绿色版 EXE 脚本
-└── run.py                 # 一键启动主入口
+├── .gitignore             
+├── README.md              
+├── requirements.txt       
+├── setup_steam.py         
+├── injector.py            
+├── injected_script.js     
+├── build.py               
+└── run.py                
 ```
 
 ---
